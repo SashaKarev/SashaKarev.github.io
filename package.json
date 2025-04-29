@@ -1,0 +1,14 @@
+{
+  "name": "t",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "1",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.5"
+  }
+}
